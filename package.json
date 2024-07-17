@@ -1,13 +1,13 @@
 {
   "name": "my-vue-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
     "preview": "vite preview",
-    "lint": "eslint --fix"
+    "lint": "eslint"
   },
   "dependencies": {
     "vue": "^3.4.29"
