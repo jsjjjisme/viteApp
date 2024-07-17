@@ -2,6 +2,7 @@
 import SlotParent from './components/slots/SlotParent.vue'
 function click() {
   const a = 'b'
+
   console.log(a)
 }
 </script>
