@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import SlotParent from './components/slots/SlotParent.vue'
 function click() {
+  console.log(123123)
 }
 </script>
 
